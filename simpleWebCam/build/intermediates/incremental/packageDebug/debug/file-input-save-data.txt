@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 13 16:34:01 CST 2018
+0.baseType=DIRECTORY
+0.base=E\:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

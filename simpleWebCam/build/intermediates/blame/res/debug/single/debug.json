@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

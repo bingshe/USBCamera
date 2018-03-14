@@ -1,0 +1,4 @@
+#Tue Mar 13 16:34:01 CST 2018
+base.0=E\:\\workspace\\androidstudio\\LeanTest\\simpleWebCam\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
