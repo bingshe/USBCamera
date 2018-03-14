@@ -4,8 +4,9 @@
 注释事项：
 1、代码只是一个module，需要导入androidstudio
 2、运行时需要将libImageProc.so放到/system/lib目录
-3、找到USB摄像头的设备节点，赋777权限
+3、找到USB摄像头的设备节点（一般的dev目录下的video0或者video1），赋777权限
 4、录下的视频在sdcard目录
+5、so库对应的jni，主要是对摄像头的设备节点进行操作
 
 
 USB摄像头使用问题记录：
